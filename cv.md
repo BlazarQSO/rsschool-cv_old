@@ -54,3 +54,9 @@ My projects in GitHub:
 1. jQuery: [Memory Cards Game](https://github.com/BlazarQSO/MemoryCardsGame)  
    1. [gh-pages](https://blazarqso.github.io/MemoryCardsGame/)  
 1. ASP.NET MVC: [Sport Statistics](https://github.com/BlazarQSO/SportStatistics)  
+
+-----
+## Education:
+
+2003-2005: Belarusian State University, Applied Mathematics and Computer Science (*didn't finish*).  
+ITVDN online courses: C# (Starter, Essential, Professional), JavaScript (Essential, Advanced) and e.t.  
