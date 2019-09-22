@@ -57,8 +57,7 @@ hr {
 }
 
 .c-picture {
-    border-radius: 100px;
-    background-image: url(/img/picture.jpg);
+    border-radius: 100px;    
     background-size: contain;
 }
 
