@@ -39,3 +39,18 @@ let buttons = {
 	},
 };
 ```
+
+-----
+## Experience:
+
+HtmlAcademy.ru: [Achievements](https://htmlacademy.ru/profile/id1185755/achievements)  
+Codecademy.com: [Achievements](https://www.codecademy.com/users/BlazarQSO/achievements)  
+**ITVDN** tasks from courses: C#, ASP.NET MVC, JavaScript, SQL, EF  
+My projects in GitHub:  
+
+
+1. JavaScript: [My Calculator](https://github.com/BlazarQSO/MyCalc) 
+   1. [gh-pages](https://blazarqso.github.io/MyCalc/)     
+1. jQuery: [Memory Cards Game](https://github.com/BlazarQSO/MemoryCardsGame)  
+   1. [gh-pages](https://blazarqso.github.io/MemoryCardsGame/)  
+1. ASP.NET MVC: [Sport Statistics](https://github.com/BlazarQSO/SportStatistics)  
