@@ -60,3 +60,9 @@ My projects in GitHub:
 
 2003-2005: Belarusian State University, Applied Mathematics and Computer Science (*didn't finish*).  
 ITVDN online courses: C# (Starter, Essential, Professional), JavaScript (Essential, Advanced) and e.t.  
+
+-----
+## English:
+
+Pre-intermediate  
+I have been learning English for about 2 years by myself.   
