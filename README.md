@@ -1,1 +1,1 @@
-[My CV](https://BlazarQSO.github.io/rsschool-cv/cv)
+[Deployed resume:](https://resume-iukou-siarhei.netlify.com/)
